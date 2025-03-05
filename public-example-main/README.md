@@ -1,3 +1,4 @@
+TEST
 # How to start
 To get started with **IntelliJ IDEA**, import this project as described here:  
 https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html#import-project.
